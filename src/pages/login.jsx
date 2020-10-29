@@ -8,7 +8,7 @@ const StyledDiv = styled.div`
     align-items: center;
 `;
 
-export default Login = () => {
+export default function Login() {
     return (
         <StyledDiv>
             Login Page

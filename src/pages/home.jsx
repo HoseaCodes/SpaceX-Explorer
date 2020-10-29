@@ -8,7 +8,7 @@ const StyledDiv = styled.div`
     align-items: center;
 `;
 
-export default Home = () => {
+export default function Home() {
     return (
         <StyledDiv>
             Home Page

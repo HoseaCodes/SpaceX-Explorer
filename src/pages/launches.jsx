@@ -8,7 +8,7 @@ const StyledDiv = styled.div`
     align-items: center;
 `;
 
-export default Launches = () => {
+export default function Launches() {
     return (
         <StyledDiv>
             Launches Page
